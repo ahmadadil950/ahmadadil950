@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hello There! 👋:
 ## My name is Ahmad Adil
 🎓 Computer Engineer<br>
-🔭 I’m currently working on projects related to computer graphics<br>🌱 I’m currently learning about computer graphics and Integrated Circuit Design<br>💬 Ask me about electronics and digital design<br>⚡ Fun fact: I enjoy modding and hacking retro consoles
+🔭 I’m currently working on projects related to computer graphics<br>💬 Ask me about electronics and digital design<br>⚡ Fun fact: I enjoy modding and hacking retro consoles
 
 
 ## 🌐 Socials:
