@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ## My name is Ahmad Adil
 🎓 Computer Engineer<br>
 🔭 I’m currently working on projects related to computer graphics<br>
-👯 I’m looking to collaborate on open source projects
+👯 I’m looking to collaborate on open source projects<br>
 💬 Ask me about electronics and digital design<br>
 ⚡ Fun fact: I enjoy modding and hacking retro consoles
 
