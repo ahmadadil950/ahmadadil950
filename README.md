@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 🔭 I’m currently working on projects related to computer graphics<br>
 👯 I’m looking to collaborate on open source projects<br>
 💬 Ask me about electronics and digital design<br>
-⚡ Fun fact: I enjoy modding and hacking retro consoles
+⚡ Fun fact: I enjoy modding and hacking retro consoles<br>
+💻 Tech Stack: C/C++, HTML/CSS, JavaScript, Python, Java, HDL, x86 Assembly<br>
+🔧 Libraries/APIs/Frameworks: OpenGL, SDL, Scrapy, Numpy, BootStrap, React.JS, JavaFx, jQuery<br>
+🔨 Design Software: LTspice, Multisim, MATLAB, KiCad, Logisim, Xilinx Vivado, Intel Quartus<br>
 
 
 ## 🌐 Socials:
